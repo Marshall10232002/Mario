@@ -57,6 +57,9 @@ To avoid the agent falling into local optima early in training, the training is 
 | Max Gradient Norm | 5.0 |
 | N-Step Return | 5 agent action blocks (≈ 20 frames) |
 
+## Trained Model
+The trained model is too large to include in this repository, so it is available on Google Drive:
+[Download Trained Model](https://drive.google.com/drive/folders/1HA8xe0bhm9nzsAdaUj1MOrqdMy-DOk7P?usp=sharing)
 
 ## Acknowledgments
 
